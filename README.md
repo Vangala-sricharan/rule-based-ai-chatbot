@@ -31,3 +31,4 @@ A simple AI Chatbot developed using Python and Dictionary-Based Responses.
 ## Internship Project
 
 Developed during the Artificial Intelligence Internship at Decode Labs (June 2026).
+#decodelabs
